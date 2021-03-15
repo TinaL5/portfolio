@@ -1,4 +1,4 @@
-#Tina Leard Portfolio
+# Tina Leard Portfolio
 
 ## Data Literacy through Sports Analytics
 Tina Leard and Michael Lamoureux
@@ -11,6 +11,6 @@ Variations of this online workshop were presented at...
 - Southern Alberta Teachers' Convention 2021
 - Central Alberta Teachers’ Convention Association 2021
 - British Columbia Blended Digital Ed Conference 2020
-- Mathematics Council Alberta Teachers’ Association
+- Mathematics Council Alberta Teachers’ Association 2020
 
 [Link](url) and ![Image](src)
