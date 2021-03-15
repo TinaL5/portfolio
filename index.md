@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Tina Leard Portfolio
 
 You can use the [editor on GitHub](https://github.com/TinaL5/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
