@@ -1,38 +1,16 @@
-# Tina Leard Portfolio Index
+# Tina Leard Portfolio
 
-You can use the [editor on GitHub](https://github.com/TinaL5/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**Data Literacy through Sports Analytics** 
+Tina Leard and Michael Lamoureux
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Click here](https://mybinder.org/v2/gh/TinaL5/sports/3d30e8e64978a9bae1a15ad65b863e9a0e9a3cc7) to open this Jupyter RISE presentation in myBinder.
 
-### Markdown
+Data-informed decisions in athletics are becoming increasingly popular, and technology is providing the opportunity to make sports analytics more approachable. Analyzing data on team performance can provide insight into game play while making data literacy meaningful. We situate computational thinking within data literacy, talk about possibilities for data collection, and explore data analysis with Python in Jupyter notebooks. Connections to math, physical education, and team sports for grades 7 to 12 will be highlighted in the context of data science.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+Variations of this online workshop were presented at...
+- Southern Alberta TEachers' Convention 2021
+- Central Alberta Teachers’ Convention Association 2021
+- British Columbia Blended Digital Ed Conference 2020
+- Mathematics Council Alberta Teachers’ Association
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TinaL5/sports). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
