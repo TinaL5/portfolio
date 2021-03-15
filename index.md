@@ -1,4 +1,6 @@
-# Data Literacy through Sports Analytics
+#Tina Leard Portfolio
+
+## Data Literacy through Sports Analytics
 Tina Leard and Michael Lamoureux
 
 <a href = "https://hub.gke2.mybinder.org/user/tinal5-sports-o6j4x2ie/notebooks/sports.ipynb" target="_blank">Click here</a> to open this Jupyter RISE presentation in myBinder.
