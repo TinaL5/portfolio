@@ -1,4 +1,4 @@
-# Tina Leard Portfolio
+# Tina Leard Portfolio Index
 
 You can use the [editor on GitHub](https://github.com/TinaL5/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
