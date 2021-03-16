@@ -3,7 +3,7 @@
 ## Data Literacy through Sports Analytics
 Tina Leard and Michael Lamoureux
 
-<a href = "https://hub.gke2.mybinder.org/user/tinal5-sports-o6j4x2ie/notebooks/sports.ipynb" target="_blank">Open</a> this Jupyter RISE presentation in myBinder.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TinaL5/sports/HEAD?filepath=sports.ipynb) to open this Jupyter RISE presentation.
 <br><a href = "https://vimeo.com/510567406" target="_blank">Open</a> a video of the presentation recorded at the Central Alberta Teachers' Convention 2021.
 
 Data-informed decisions in athletics are becoming increasingly popular, and technology is providing the opportunity to make sports analytics more approachable. Analyzing data on team performance can provide insight into game play while making data literacy meaningful. We situate computational thinking within data literacy, talk about possibilities for data collection, and explore data analysis with Python in Jupyter notebooks. Connections to math, physical education, and team sports for grades 7 to 12 will be highlighted in the context of data science.
