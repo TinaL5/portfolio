@@ -17,7 +17,7 @@ Variations of this online workshop were presented at...
 - Mathematics Council Alberta Teachers’ Association 2020
 
 ## Pets on Mars - Curiosity Hackathon
-Collaborative Callysto Project: Provided support as an educational specialist, conducted quality control, updated notebooks, and created the teacher resource.
+Collaborative Callysto Project: Provided support as an educational specialist, conducted quality control, updated Jupyter notebooks, and created the teacher resource.
 
 <a href="https://tinal5.github.io/curiosity-hackathon/" target="blank">Welcome page</a> for the hackathon<br>
 <a href="https://docs.google.com/document/d/1NgTXeRRItN5WfW5VwzQx6QRFBYWpW9sefdBvnhar_OU/edit?usp=sharing" target="_blank">Teacher resource</a>
