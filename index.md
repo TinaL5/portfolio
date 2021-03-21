@@ -7,9 +7,10 @@ Tina Leard and Michael Lamoureux
 <br><a href = "https://vimeo.com/510567406" target="_blank">Video</a> of the presentation recorded at the Central Alberta Teachers' Convention 2021
 <br><a href = "https://github.com/TinaL5/sports/blob/main/images/data_literacy_sports.png" target="blank">Guiding pedagogical framework for data literacy and sports</a>
 <br>
-<br><a href = "https://github.com/TinaL5/sports/blob/main/curricular-ab.md" target="_blank">Guiding connections for Alberta programs of study</a>
-<br><a href = "https://github.com/TinaL5/sports/blob/main/curricular-bc.md" target="_blank">Guiding connections for British Columbia curricula</a>
-<br><a href = "https://github.com/TinaL5/sports/blob/main/curricular-on.md" target="_blank">Guiding connections for Ontario curricula</a>
+<br>Guiding connections for...
+<br><a href = "https://github.com/TinaL5/sports/blob/main/curricular-ab.md" target="_blank"> Alberta programs of study</a>
+<br><a href = "https://github.com/TinaL5/sports/blob/main/curricular-bc.md" target="_blank">British Columbia curricula</a>
+<br><a href = "https://github.com/TinaL5/sports/blob/main/curricular-on.md" target="_blank">Ontario curricula</a>
 
 
 Data-informed decisions in athletics are becoming increasingly popular, and technology is providing the opportunity to make sports analytics more approachable. Analyzing data on team performance can provide insight into game play while making data literacy meaningful. We situate computational thinking within data literacy, talk about possibilities for data collection, and explore data analysis with Python in Jupyter notebooks. Connections to math, physical education, and team sports for grades 7 to 12 will be highlighted in the context of data science.
