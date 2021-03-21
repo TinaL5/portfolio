@@ -6,6 +6,7 @@ Tina Leard and Michael Lamoureux
 <a href = "https://mybinder.org/v2/gh/TinaL5/sports/HEAD?filepath=sports-SABTC.ipynb" target="_blank"><img src ="https://mybinder.org/badge_logo.svg"></a> to open the Jupyter RISE presentation.
 <br><a href = "https://vimeo.com/510567406" target="_blank">Video</a> of the presentation recorded at the Central Alberta Teachers' Convention 2021
 <br><a href = "https://github.com/TinaL5/sports/blob/main/images/data_literacy_sports.png" target="blank">Guiding pedagogical framework for data literacy and sports</a>
+<br>
 <br><a href = "https://github.com/TinaL5/sports/blob/main/curricular-ab.md" target="_blank">Guiding connections for Alberta programs of study</a>
 <br><a href = "https://github.com/TinaL5/sports/blob/main/curricular-bc.md" target="_blank">Guiding connections for British Columbia curricula</a>
 <br><a href = "https://github.com/TinaL5/sports/blob/main/curricular-on.md" target="_blank">Guiding connections for Ontario curricula</a>
