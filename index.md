@@ -19,7 +19,7 @@ Variations of this online workshop were presented at...
 ## Pets on Mars - Curiosity Hackathon
 Collaborative Callysto Project: Provided support as an educational specialist, conducted quality control, updated Jupyter notebooks, and created the teacher resource.
 
-<a href="https://tinal5.github.io/curiosity-hackathon/" target="blank">Welcome page</a> for the hackathon<br>
+<a href="https://callysto.github.io/curiosity-hackathon/welcome.html" target="blank">Welcome page</a> for the hackathon<br>
 <a href="https://docs.google.com/document/d/1NgTXeRRItN5WfW5VwzQx6QRFBYWpW9sefdBvnhar_OU/edit?usp=sharing" target="_blank">Teacher resource</a>
 
 The challenges support beginners in learning about Python and data science. The challenges are designed to encourage perseverance and understanding that making mistakes can be valuable to the learning process. 
