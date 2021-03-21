@@ -21,5 +21,6 @@ Collaborative Callysto Project: Provided support as an educational specialist, c
 
 <a href="https://callysto.github.io/curiosity-hackathon/welcome.html" target="blank">Welcome page</a> for the hackathon<br>
 <a href="https://docs.google.com/document/d/1NgTXeRRItN5WfW5VwzQx6QRFBYWpW9sefdBvnhar_OU/edit?usp=sharing" target="_blank">Teacher resource</a>
+<a href="https://github.com/callysto/curiosity-hackathon.git" target="_blank">GitHub repo</a> for the hackathon<br>
 
 The challenges support beginners in learning about Python and data science. The challenges are designed to encourage perseverance and understanding that making mistakes can be valuable to the learning process. 
