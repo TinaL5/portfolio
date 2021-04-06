@@ -15,7 +15,7 @@ body {
 .header {
   padding: 30px;
   text-align: center;
-  font-size: 35px;
+  font-size: 25px;
 }
 
 /* Create three equal columns that floats next to each other */
@@ -46,7 +46,7 @@ body {
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media (max-width: 600px) {
+@media (max-width: 900px) {
   .column {
     width: 100%;
   }
@@ -56,7 +56,7 @@ body {
 <body>
 
 <div class="header">
-  <h3 style="color: #878e9c; letter-spacing: 10px">Learning Design by Tina Leard</h3>
+  <h1 style="color: #878e9c; letter-spacing: 10px">Learning Design by Tina Leard</h1>
 </div>
 
 <div class="row">
