@@ -26,7 +26,7 @@ body {
   height: 30%;
   border-radius: 8%;
   background-color:#cbd5e8;
-  opacity: 0.75;
+  opacity: 0.6;
   font-size: 20px;
 }
 
@@ -41,7 +41,7 @@ body {
 .footer { 
   padding: 10px;
   text-align: center;
-  color: #878e9c;
+  color: #cbd5e8;
   opacity: 0.5;
 }
 
@@ -56,7 +56,7 @@ body {
 <body>
 
 <div class="header">
-  <h1 style="color: #878e9c; letter-spacing: 10px">Learning Design by Tina Leard</h1>
+  <h1 style="color: #cbd5e8; letter-spacing: 10px">Learning Design by Tina Leard</h1>
 </div>
 
 <div class="row">
