@@ -56,7 +56,7 @@ body {
 <body>
 
 <div class="header">
-  <h2 style="color: #878e9c; letter-spacing: 10px">Learning Design by Tina Leard</h2>
+  <h3 style="color: #878e9c; letter-spacing: 10px">Learning Design by Tina Leard</h3>
 </div>
 
 <div class="row">
