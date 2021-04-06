@@ -37,11 +37,11 @@ body {
   clear: both;
 }
 
-/* Style the footer background-color: #f1f1f1;*/
+/* Style the footer*/
 .footer { 
   padding: 10px;
   text-align: center;
-  color: #b3cde3;
+  color: #9299a6;
   opacity: 0.5;
 }
 
@@ -56,7 +56,7 @@ body {
 <body>
 
 <div class="header">
-  <h1 style="color: #b3cde3; letter-spacing: 10px">Learning Design by Tina Leard</h1>
+  <h1 style="color: #9299a6; letter-spacing: 10px">Learning Design by Tina Leard</h1>
 </div>
 
 <div class="row">
