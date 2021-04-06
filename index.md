@@ -113,6 +113,3 @@ body {
 <div class="footer">
   <p>Updated April 2021</p>
 </div>
-
-</body>
-</html>
