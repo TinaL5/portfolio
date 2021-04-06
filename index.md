@@ -27,6 +27,7 @@ body {
   border-radius: 8%;
   background-color:#cbd5e8;
   opacity: 0.75;
+  font-size: 20px;
 }
 
 /* Clear floats after the columns */
@@ -59,14 +60,14 @@ body {
 </div>
 
 <div class="row">
-  <div class="column"><h3><b>Sports Analytics</b></h3>
+  <div class="column"><b>Sports Analytics</b>
     <p><br>
     <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
     </p>
   </div>
   
-  <div class="column"><h3>Hackathons</h3>
+  <div class="column"><b>Hackathons</b>
   <p><br>
     <img src = "images/curiosity.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
