@@ -13,15 +13,14 @@ body {
 
 /* Style the header */
 .header {
-  padding: 30px;
   text-align: center;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 30%;
+  width: 33.3%;
   padding: 10px;
   margin: 5px;
   height: 30%;
@@ -46,7 +45,7 @@ body {
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media (max-width: 900px) {
+@media (max-width: 600px) {
   .column {
     width: 100%;
   }
