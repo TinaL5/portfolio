@@ -21,10 +21,13 @@ body {
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 33.33%;
+  width: 30%;
   padding: 10px;
-  height: 300px;
-  border-radius: 25px;
+  margin: 5px;
+  height: 30%;
+  border-radius: 8%;
+  background-color:#cbd5e8;
+  opacity: 0.75;
 }
 
 /* Clear floats after the columns */
@@ -38,6 +41,8 @@ body {
 .footer { 
   padding: 10px;
   text-align: center;
+  color: #878e9c;
+  opacity: 0.5;
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
@@ -51,17 +56,54 @@ body {
 <body>
 
 <div class="header">
-  <h2 style="color: #636efa>Learning Design by Tina Leard</h2>
+  <h2 style="color: #878e9c; letter-spacing: 10px">Learning Design by Tina Leard</h2>
 </div>
 
 <div class="row">
-  <div class="column" style="background-color:#b3cde3;">Column</div>
-  <div class="column" style="background-color:#b3cde3;">Column</div>
-  <div class="column" style="background-color:#b3cde3;">Column</div>
+  <div class="column"><b>Sports Analytics</b>
+    <p>
+    <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
+      margin-left: auto; margin-right: auto;">
+    </p>
+  </div>
+  <div class="column"><b>Hackathon</b>
+  <p>
+    <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
+      margin-left: auto; margin-right: auto;">
+    </p>
+  </div>
+  
+  <div class="column"><b>Machine Learning</b>
+    <p>
+    <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
+      margin-left: auto; margin-right: auto;">
+    </p>
+  </div>  
+</div>
+  
+<div class="row">
+  <div class="column"><b>Learning Management</b><p>
+    <img src = "images/matrix.png" style="width: 90%; border-radius: 8%; display: block;
+      margin-left: auto; margin-right: auto;">
+    </p>
+  </div>
+  
+  <div class="column"><b>Storyboarding</b>
+  <p>
+    <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
+      margin-left: auto; margin-right: auto;">
+    </p>
+  </div>
+  
+  <div class="column"><b>Research</b><p>
+    <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
+      margin-left: auto; margin-right: auto;">
+    </p>
+  </div>
 </div>
 
 <div class="footer">
-  <p>Footer</p>
+  <p>Updated April 2021</p>
 </div>
 
 </body>
