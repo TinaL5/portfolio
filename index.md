@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-<title>CSS Template</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -15,7 +13,6 @@ body {
 
 /* Style the header */
 .header {
-  background-color: #f1f1f1;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -26,7 +23,8 @@ body {
   float: left;
   width: 33.33%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  height: 300px;
+  border-radius: 25px;
 }
 
 /* Clear floats after the columns */
@@ -36,9 +34,8 @@ body {
   clear: both;
 }
 
-/* Style the footer */
-.footer {
-  background-color: #f1f1f1;
+/* Style the footer background-color: #f1f1f1;*/
+.footer { 
   padding: 10px;
   text-align: center;
 }
@@ -53,18 +50,14 @@ body {
 </head>
 <body>
 
-<h2>CSS Template using Float</h2>
-<p>In this example, we have created a header, three equal columns and a footer. On smaller screens, the columns will stack on top of each other.</p>
-<p>Resize the browser window to see the responsive effect.</p>
-
 <div class="header">
-  <h2>Header</h2>
+  <h2 style="color: #636efa>Learning Design by Tina Leard</h2>
 </div>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">Column</div>
-  <div class="column" style="background-color:#bbb;">Column</div>
-  <div class="column" style="background-color:#ccc;">Column</div>
+  <div class="column" style="background-color:#b3cde3;">Column</div>
+  <div class="column" style="background-color:#b3cde3;">Column</div>
+  <div class="column" style="background-color:#b3cde3;">Column</div>
 </div>
 
 <div class="footer">
