@@ -60,6 +60,7 @@ body {
 </div>
 
 <div class="row">
+  
   <div class="column"><b>Sports Analytics</b>
     <p><br>
     <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
@@ -67,9 +68,9 @@ body {
     </p>
   </div>
   
-  <div class="column"><b>Hackathons</b>
-  <p><br>
-    <img src = "images/curiosity.png" style="width: 90%; border-radius: 8%; display: block;
+  <div class="column"><b>Storyboarding</b>
+    <p><br>
+    <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
     </p>
   </div>
@@ -79,9 +80,26 @@ body {
     <img src = "images/matrix.png" style="width: 80%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
     </p>
-  </div>  
-</div>
+  </div> 
   
+</div>
+
+<div class="row">
+  
+ <div class="column"><b>Hackathons</b>
+  <p><br>
+    <img src = "images/curiosity.png" style="width: 90%; border-radius: 8%; display: block;
+      margin-left: auto; margin-right: auto;">
+    </p>
+  </div>
+  
+ <div class="column"><b>Research</b>
+  <p><br>
+    <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
+      margin-left: auto; margin-right: auto;">
+    </p>
+  </div>
+
 <div class="row">
   <div class="column"><b>Learning Management</b>
     <p><br>
@@ -90,19 +108,6 @@ body {
     </p>
   </div>
   
-  <div class="column"><b>Storyboarding</b>
-  <p><br>
-    <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
-      margin-left: auto; margin-right: auto;">
-    </p>
-  </div>
-  
-  <div class="column"><b>Research</b>
-  <p><br>
-    <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
-      margin-left: auto; margin-right: auto;">
-    </p>
-  </div>
 </div>
 
 <div class="footer">
