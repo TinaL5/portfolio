@@ -59,14 +59,14 @@ body {
 </div>
 
 <div class="row">
-  <div class="column"><b>Sports Analytics</b>
+  <div class="column"><h3><b>Sports Analytics</b></h3>
     <p><br>
     <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
     </p>
   </div>
   
-  <div class="column"><b>Hackathons</b>
+  <div class="column"><h3>Hackathons</h3>
   <p><br>
     <img src = "images/curiosity.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
