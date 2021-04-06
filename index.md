@@ -20,9 +20,9 @@ body {
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 33.3%;
+  width: 31.3%;
   padding: 10px;
-  margin: 5px;
+  margin: 1%;
   height: 30%;
   border-radius: 8%;
   background-color:#cbd5e8;
@@ -66,7 +66,7 @@ body {
     </p>
   </div>
   
-  <div class="column"><b>Hackathon</b>
+  <div class="column"><b>Hackathons</b>
   <p><br>
     <img src = "images/curiosity.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
