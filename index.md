@@ -76,7 +76,7 @@ body {
   
   <div class="column"><b>Machine Learning</b>
     <p><br>
-    <img src = "images/matrix.png" style="width: 90%; border-radius: 8%; display: block;
+    <img src = "images/matrix.png" style="width: 80%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
     </p>
   </div>  
