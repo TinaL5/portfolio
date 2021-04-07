@@ -25,6 +25,7 @@ a:hover {
 
 a:active {
   text-decoration: none;
+  background-color: rgba(203, 213, 232,0.4);
 }
 
 .header {
