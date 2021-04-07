@@ -8,70 +8,72 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+font-family: Arial, Helvetica, sans-serif;
 }
 
 .header {
-  text-align: center;
-  font-size: 20px;
-  color: #9299a6; 
-  letter-spacing: 10px;
+text-align: center;
+font-size: 20px;
+color: #9299a6;
+letter-spacing: 10px;
 }
 
 .column {
-  float: left;
-  width: 31.3%;
-  padding: 10px;
-  margin: 1%;
-  height: 30%;
-  border-radius: 8%;
-  background-color:#cbd5e8;
-  font-size: 20px;
+float: left;
+width: 31.3%;
+padding: 10px;
+margin: 1%;
+height: 30%;
+border-radius: 8%;
+background-color:#cbd5e8;
+font-size: 20px;
 }
 
 .row:after {
-  content: "";
-  display: table;
-  clear: both;
+content: "";
+display: table;
+clear: both;
 }
 
-.footer { 
-  padding: 10px;
-  text-align: center;
-  color: #9299a6;
-  opacity: 0.75;
+.footer {
+padding: 10px;
+text-align: center;
+color: #9299a6;
+opacity: 0.75;
 }
 
 @media (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
+.column {
+width: 100%;
+}
 }
 </style>
-</head>
-<body>
 
+</head>
+
+<body>
+  
 <div class="header">
   <h1>Learning Systems by Tina Leard</h1>
 </div>
 
 <div class="row">
   
-  <div class="column"><b>Data Science</b>
+  <div class="column"><b>Blended learning</b>
     <p><br>
     <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
     </p>
   </div>
   
-  <div class="column"><b>Storyboards</b>
+  <div class="column"><b>Human-computer</b>
     <p><br>
     <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
     </p>
   </div>
   
-  <div class="column"><b>Machine Learning</b>
+  <div class="column"><b>Emerging technology</b>
     <p><br>
     <img src = "images/matrix.png" style="width: 80%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
@@ -82,22 +84,21 @@ body {
 
 <div class="row">
   
- <div class="column"><b>Hackathons</b>
+ <div class="column"><b>Interactive design</b>
   <p><br>
     <img src = "images/curiosity.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
     </p>
   </div>
   
- <div class="column"><b>Learning Analytics</b>
+ <div class="column"><b>Learning analytics</b>
   <p><br>
     <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
     </p>
   </div>
 
-<div class="row">
-  <div class="column"><b>Learning Management</b>
+  <div class="column"><b>Learning management</b>
     <p><br>
     <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
@@ -109,3 +110,5 @@ body {
 <div class="footer">
   <p>Updated April 2021</p>
 </div>
+  
+</body>
