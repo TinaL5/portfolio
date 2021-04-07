@@ -82,43 +82,43 @@ width: 100%;
     </p></a>
   </div>
   
-  <div class="column"><b>Human-computer</b>
+  <div class="column"><a href="hci.html><b>Human-computer</b>
     <p><br>
     <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
-    </p>
+  </p></a>
   </div>
   
-  <div class="column"><b>Emerging technology</b>
+  <div class="column"><a href="tech.html"><b>Emerging technology</b>
     <p><br>
     <img src = "images/matrix.png" style="width: 80%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
-    </p>
+  </p></a>
   </div> 
   
 </div>
 
 <div class="row">
   
- <div class="column"><b>Interactive design</b>
+ <div class="column"><a href="design.html"><b>Interactive design</b>
   <p><br>
     <img src = "images/curiosity.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
-    </p>
+  </p></a>
   </div>
   
- <div class="column"><b>Learning analytics</b>
+ <div class="column"><a href="analytics.html"><b>Learning analytics</b>
   <p><br>
     <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
-    </p>
+  </p></a>
   </div>
 
-  <div class="column"><b>Learning management</b>
+  <div class="column"><a href="lms.html"><b>Learning management</b>
     <p><br>
     <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
-    </p>
+  </p></a>
   </div>
   
 </div>
