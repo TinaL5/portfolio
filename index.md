@@ -26,7 +26,6 @@ body {
   height: 30%;
   border-radius: 8%;
   background-color:#cbd5e8;
-  opacity: 0.7;
   font-size: 20px;
 }
 
