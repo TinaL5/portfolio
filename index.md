@@ -58,7 +58,7 @@ body {
 
 <div class="row">
   
-  <div class="column"><b>Sports Analytics</b>
+  <div class="column"><b>Data Science</b>
     <p><br>
     <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
