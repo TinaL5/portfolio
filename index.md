@@ -68,7 +68,7 @@ body {
     </p>
   </div>
   
-  <div class="column"><b>Storyboarding</b>
+  <div class="column"><b>Storyboards</b>
     <p><br>
     <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
