@@ -20,12 +20,11 @@ a:visited {
 }
 
 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:active {
-  text-decoration: none;
-  background-color: rgba(203, 213, 232,0.4);
+  text-decoration: underline;
 }
 
 .header {
@@ -76,7 +75,7 @@ width: 100%;
 
 <div class="row">
   
-  <a href="blended.md"><div class="column"><b>Blended learning</b>
+  <a href="blended.html"><div class="column"><b>Blended learning</b>
     <p><br>
     <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
