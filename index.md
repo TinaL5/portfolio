@@ -75,12 +75,12 @@ width: 100%;
 
 <div class="row">
   
-  <a href="blended.html"><div class="column"><b>Blended learning</b>
+  <div class="column"><a href="blended.html"><b>Blended learning</b>
     <p><br>
     <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
-    </p>
-  </div></a>
+    </p></a>
+  </div>
   
   <div class="column"><b>Human-computer</b>
     <p><br>
