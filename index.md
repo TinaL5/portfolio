@@ -93,7 +93,7 @@ body {
     </p>
   </div>
   
- <div class="column"><b>Research</b>
+ <div class="column"><b>Learning Analytics</b>
   <p><br>
     <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
