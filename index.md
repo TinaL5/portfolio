@@ -11,13 +11,13 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Style the header */
 .header {
   text-align: center;
   font-size: 20px;
+  color: #9299a6; 
+  letter-spacing: 10px;
 }
 
-/* Create three equal columns that floats next to each other */
 .column {
   float: left;
   width: 31.3%;
@@ -30,14 +30,12 @@ body {
   font-size: 20px;
 }
 
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
 
-/* Style the footer*/
 .footer { 
   padding: 10px;
   text-align: center;
@@ -45,7 +43,6 @@ body {
   opacity: 0.5;
 }
 
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media (max-width: 600px) {
   .column {
     width: 100%;
@@ -56,7 +53,7 @@ body {
 <body>
 
 <div class="header">
-  <h1 style="color: #9299a6; letter-spacing: 10px">Learning Systems by Tina Leard</h1>
+  <h1>Learning Systems by Tina Leard</h1>
 </div>
 
 <div class="row">
