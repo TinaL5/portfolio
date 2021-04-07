@@ -39,7 +39,7 @@ body {
   padding: 10px;
   text-align: center;
   color: #9299a6;
-  opacity: 0.5;
+  opacity: 0.75;
 }
 
 @media (max-width: 600px) {
