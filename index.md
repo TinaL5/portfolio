@@ -11,6 +11,22 @@ body {
 font-family: Arial, Helvetica, sans-serif;
 }
 
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
 .header {
 text-align: center;
 font-size: 20px;
@@ -59,12 +75,12 @@ width: 100%;
 
 <div class="row">
   
-  <div class="column"><b>Blended learning</b>
+  <a href="blended.md"><div class="column"><b>Blended learning</b>
     <p><br>
     <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
     </p>
-  </div>
+  </div></a>
   
   <div class="column"><b>Human-computer</b>
     <p><br>
