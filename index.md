@@ -43,6 +43,7 @@ height: 30%;
 border-radius: 8%;
 background-color:#cbd5e8;
 font-size: 20px;
+overflow: hidden;
 }
 
 .row:after {
