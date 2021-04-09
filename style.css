@@ -42,24 +42,26 @@ margin: 1%;
 .column {
 float: left;
 text-align: left;
-padding: 10px;
-height: 315px;
+padding: 30px;
 color: #4e5259;
+overflow: auto;
 }
 
 .column.side {
-  width: 23%;
+  width: 25%;
   margin: 1%;
   border-radius: 8%;
   background-color:#cbd5e8;
   font-size: 18px;
   text-align: left;
+  height: 33%;
 }
 
 .column.middle {
-  width: 67%;
+  width: 50%;
   font-size: 18px;
   text-align: left;
+  height: 35%;
 }
 
 .row:after {
@@ -67,7 +69,6 @@ content: "";
 display: table;
 clear: both;
 }
-
 
 @media (max-width: 600px) {
   .column.side, .column.middle {
