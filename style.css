@@ -31,6 +31,11 @@ font-size: 18;
 color: #4e5259;
 }
 
+iframe {
+  max-width: 550px;
+  max-height: 340px;
+}
+
 .header {
 text-align: left;
 font-size: 16px;
@@ -44,24 +49,23 @@ float: left;
 text-align: left;
 padding: 30px;
 color: #4e5259;
-overflow: auto;
+overflow: hidden;
+height: 340px;
 }
 
 .column.side {
-  width: 25%;
+  width: 23%;
   margin: 1%;
   border-radius: 8%;
   background-color:#cbd5e8;
   font-size: 18px;
   text-align: left;
-  height: 33%;
 }
 
 .column.middle {
-  width: 50%;
+  width: 67%;
   font-size: 18px;
   text-align: left;
-  height: 35%;
 }
 
 .row:after {
