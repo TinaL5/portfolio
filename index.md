@@ -118,7 +118,7 @@ width: 100%;
 </div>
 
 <div class="footer">
-  <p>Updated April 2021</p>
+  <p style="text-align:center;">Updated April 2021</p>
 </div>
   
 </body>
