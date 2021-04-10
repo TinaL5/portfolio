@@ -83,7 +83,7 @@ width: 100%;
   </p></a>
   </div>
   
-  <div class="column"><a href="tech.html"><b>Design for literacy</b>
+  <div class="column"><a href="literacy.html"><b>Design for literacy</b>
     <p><br>
     <img src = "images/matrix.png" style="width: 80%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
