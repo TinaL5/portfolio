@@ -52,6 +52,11 @@ display: table;
 clear: both;
 }
 
+.footer {
+margin-top: 2%;
+font-size: 18px
+}
+
 @media (max-width: 600px) {
 .column {
 width: 100%;
