@@ -85,12 +85,12 @@ float: left;
 text-align: left;
 padding: 2%;
 color: #4e5259;
-overflow: scroll;
+overflow: auto;
 height: 360px;
 }
 
 .column.side {
-  width: 40%;
+  width: 35%;
   margin-top: 1%;
   border-radius: 8%;
   background-color:#cbd5e8;
@@ -99,7 +99,7 @@ height: 360px;
 }
 
 .column.middle {
-  width: 60%;
+  width: 65%;
   margin-top: 1%;
   font-size: 18px;
   text-align: left;
