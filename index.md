@@ -13,18 +13,22 @@ font-family: Arial, Helvetica, sans-serif;
 
 a:link {
   text-decoration: none;
+  color: #2368cf;
 }
 
 a:visited {
   text-decoration: none;
+  color: #2368cf;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #2368cf;
 }
 
 a:active {
   text-decoration: underline;
+  color: #2368cf;
 }
 
 .header {
