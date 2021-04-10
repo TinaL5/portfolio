@@ -6,18 +6,22 @@ margin-right: 20%;
 
 a:link {
   text-decoration: none;
+  color: #2368cf;
 }
 
 a:visited {
   text-decoration: none;
+  color: #2368cf;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #2368cf;
 }
 
 a:active {
   text-decoration: underline;
+  color: #2368cf;
 }
 
 p {
@@ -109,7 +113,6 @@ clear: both;
 .footer {
 margin-top: 2%;
 font-size: 18px
-color: #f2f2f2;
 }
 
 @media (max-width: 600px) {
