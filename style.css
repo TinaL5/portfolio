@@ -1,6 +1,7 @@
 body {
 font-family: Arial, Helvetica, sans-serif;
-margin: 1%;
+margin-left: 20%;
+margin-right: 10%;
 }
 
 a:link {
@@ -23,6 +24,7 @@ p {
 text-align:left;
 font-size: 18;
 color: #4e5259;
+margin-top: 1%;
 }
 
 ul {
@@ -31,31 +33,26 @@ font-size: 18;
 color: #4e5259;
 }
 
-iframe {
-  max-width: 550px;
-  max-height: 340px;
-}
-
 .header {
 text-align: left;
 font-size: 16px;
 color: #9299a6;
 letter-spacing: 6px;
-margin: 1%;
+margin-top: 1%;
 }
 
 .column {
 float: left;
 text-align: left;
-padding: 30px;
+padding: 2%;
 color: #4e5259;
-overflow: hidden;
-height: 340px;
+overflow: scroll;
+height: 360px;
 }
 
 .column.side {
-  width: 23%;
-  margin: 1%;
+  width: 25%;
+  margin-top: 1%;
   border-radius: 8%;
   background-color:#cbd5e8;
   font-size: 18px;
@@ -63,7 +60,7 @@ height: 340px;
 }
 
 .column.middle {
-  width: 67%;
+  width: 45%;
   font-size: 18px;
   text-align: left;
 }
