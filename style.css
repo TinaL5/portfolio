@@ -37,12 +37,25 @@ font-size: 18;
 color: #4e5259;
 }
 
+table {
+  width: 100%;
+  margin-top: 2%;
+  padding: 1%;
+  box-sizing: border-box;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  color: #2368cf;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: left;
+}
+
 .accordion {
   background-color: #f2f2f2;
   color: #4e5259;
   font-size: 18px;
   text-align: left;
-  padding: 2%;
+  padding: 1%;
   cursor: pointer;
   margin-top: 1%;
   border-radius: 8px;
@@ -69,41 +82,10 @@ color: #4e5259;
 .panel {
   padding: 1%;
   background-color: white;
+  color: #4e5259;
   display: none;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-}
-
-.topnav {
-  overflow: hidden;
-  background-color: #f2f2f2;
-  border-radius: 8px;
-  position: relative;
-}
-
-.topnav #myLinks {
-  display: none;
-}
-
-.topnav a {
-  color: #4e5259;
-  padding: 10px;
-  text-decoration: none;
-  font-size: 18px;
-  display: block;
-}
-
-.topnav a.icon {
-  background: #f2f2f2;
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-.topnav a:hover {
-  background-color: #9299a6;
-  color: #f2f2f2;
 }
 
 .header {
