@@ -1,0 +1,9 @@
+Team,Quarter,Possession (seconds),Circle entries,Passes received,Shot attempts,Intercepts
+Home,first,365,2,49,0,8
+Home,second,355,4,32,0,10
+Home,third,410,8,42,2,7
+Home,fourth,390,9,29,0,5
+Away,first,535,3,31,1,8
+Away,second,545,5,24,0,10
+Away,third,490,4,26,0,9
+Away,fourth,510,0,27,0,2
