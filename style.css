@@ -55,6 +55,7 @@ color: #4e5259;
 .accordion:after {
   content: '\002B';
   color: #4e5259;
+  background-color: #f2f2f2
   font-weight: bold;
   float: right;
   margin-left: 5px;
@@ -62,6 +63,7 @@ color: #4e5259;
 
 .active:after {
   content: "\2212";
+  font-weight: bold;
 }
 
 .panel {
@@ -70,6 +72,46 @@ color: #4e5259;
   display: none;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
+}
+
+.mobile-container {
+  margin: auto;
+  background-color: #f2f2f2
+  height: 500px;
+  color: #4e5259;
+  border-radius: 8px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  position: relative;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color: #4e5259;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 18px;
+  display: block;
+}
+
+.topnav a.icon {
+  background: #f2f2f2;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.topnav a:hover {
+  background-color: #9299a6;
+  color: #f2f2f2;
 }
 
 .header {

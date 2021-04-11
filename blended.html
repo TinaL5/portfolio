@@ -2,7 +2,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <style>
   * {
@@ -17,6 +20,36 @@
 <body>
 
 <a name="top"></a>
+
+<div class="mobile-container">
+
+<div class="topnav">
+  <b><a href="https://tinal5.github.io/portfolio/" style="color: #2368cf;">◀︎ portfolio</a></b>
+
+  <div class="myLinks">
+    <a href="hci.html">Human&#8211;computer</a>
+    <a href="literacy.html">Design for literacy</a>
+    <a href="interactive.html">Interactive design</a>
+    <a href="analytics.html">Learning analytics</a>
+    <a href="lms.html">Learning management</a>
+  </div>
+
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+</div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myLinks");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
 
 <div class="header">
   <h2><a href="https://tinal5.github.io/portfolio/">◀︎ portfolio</a></h2>
@@ -112,23 +145,6 @@
   </p>
 </div>
 
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
-</script>
-
 <br>
 <br>
 <br>
@@ -157,11 +173,19 @@ for (i = 0; i < acc.length; i++) {
 
   </div>
 
+  <button class="accordion"><b>Reference</b></button>
+  <div class="panel">
+    <p>
+    </p>
+  </div>
+
 </div>
 
   <div class="footer">
     <p style="text-align: right;"><b><a href="https://tinal5.github.io/portfolio/">◀︎ portfolio</a> | <a href = "#top">return to top</a></b></p>
     <br>
   </div>
+
+<script src="script-button.js"></script>
 
 </body>
