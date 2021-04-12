@@ -87,7 +87,7 @@ width: 100%;
   
   <div class="column"><a href="hci.html"><b>Human&#8211;computer</b>
     <p><br>
-    <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
+    <img src = "images/automata.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
