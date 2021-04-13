@@ -112,7 +112,7 @@ width: 100%;
   
  <div class="column"><a href="analytics.html"><b>Learning analytics</b>
   <p><br>
-    <img src = "https://docs.google.com/drawings/d/e/2PACX-1vQnolS1pps_ycJqV2J3VtN2uQFW9zXyXeFhnHMquQWaz6CJSxNzH9FMPS4lEU-NWAXIcK0oAz9QwdC4/pub?w=963&amp;h=440" style="width: 90%; border-radius: 8%; display: block;
+    <img src = "https://docs.google.com/drawings/d/e/2PACX-1vQO2CI4vXY-HU8SocHr_hvwxot-28RBVjlMZfcucvJSK3IMcX9gm457gKg0XXTUE319CX5x3OHbGSWR/pub?w=480&amp;h=360" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
