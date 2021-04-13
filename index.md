@@ -112,14 +112,14 @@ width: 100%;
   
  <div class="column"><a href="analytics.html"><b>Learning analytics</b>
   <p><br>
-    <img src = "images/jobaid.jpg" style="width: 90%; border-radius: 8%; display: block;
+    <img src = "images/.jpg" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
 
   <div class="column"><a href="lms.html"><b>Learning management</b>
     <p><br>
-    <img src = "images/course.jpg" style="width: 90%; border-radius: 8%; display: block;
+    <img src = "images/lms.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
