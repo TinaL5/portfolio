@@ -112,7 +112,7 @@ width: 100%;
   
  <div class="column"><a href="analytics.html"><b>Learning analytics</b>
   <p><br>
-    <img src = "images/.jpg" style="width: 90%; border-radius: 8%; display: block;
+    <img src = "https://docs.google.com/drawings/d/e/2PACX-1vQnolS1pps_ycJqV2J3VtN2uQFW9zXyXeFhnHMquQWaz6CJSxNzH9FMPS4lEU-NWAXIcK0oAz9QwdC4/pub?w=963&amp;h=440" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
