@@ -112,7 +112,7 @@ width: 100%;
   
  <div class="column"><a href="analytics.html"><b>Learning analytics</b>
   <p><br>
-    <img src = "images/.png" style="width: 90%; border-radius: 8%; display: block;
+    <img src = "images/jobaid.jpg" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
