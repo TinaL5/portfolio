@@ -94,7 +94,7 @@ width: 100%;
   
   <div class="column"><a href="literacy.html"><b>Design for literacy</b>
     <p><br>
-    <img src = "images/matrix.png" style="width: 80%; border-radius: 8%; display: block;
+    <img src = "images/matrix.png" style="width: 78%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div> 
@@ -112,7 +112,7 @@ width: 100%;
   
  <div class="column"><a href="analytics.html"><b>Learning analytics</b>
   <p><br>
-   <img src="https://docs.google.com/drawings/d/e/2PACX-1vQwQyC0dtsPFWQuJpiWCLqVaIOfZWn3PDrzf9lUs5OPxf99E-tP4smM5_ABtj2TSdKepIIP-RZVQ9sG/pub?w=356&amp;h=178" style="width: 95%; margin-left: auto; margin-right: auto; border-radius: 8%; display: block;">
+   <img src="https://docs.google.com/drawings/d/e/2PACX-1vQwQyC0dtsPFWQuJpiWCLqVaIOfZWn3PDrzf9lUs5OPxf99E-tP4smM5_ABtj2TSdKepIIP-RZVQ9sG/pub?w=356&amp;h=178" style="width: 97%; margin-left: auto; margin-right: auto; border-radius: 8%; display: block;">
   </p></a>
   </div>
 
