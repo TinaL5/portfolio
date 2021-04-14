@@ -43,7 +43,7 @@ float: left;
 width: 31.3%;
 padding: 10px;
 margin: 1%;
-height: 30%;
+height: 35%;
 border-radius: 8%;
 background-color:#cbd5e8;
 font-size: 20px;
@@ -76,7 +76,7 @@ width: 100%;
   <h1>Learning Systems by Tina Leard</h1>
 </div>
 
-<div class="row" style="height: 150px;">
+<div class="row">
   
   <div class="column"><a href="blended.html"><b>Blended learning</b>
     <p><br>
