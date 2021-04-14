@@ -43,7 +43,7 @@ float: left;
 width: 31.3%;
 padding: 10px;
 margin: 1%;
-height: 45%;
+height: 300px;
 border-radius: 8%;
 background-color:#cbd5e8;
 font-size: 20px;
