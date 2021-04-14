@@ -76,7 +76,7 @@ width: 100%;
   <h1>Learning Systems by Tina Leard</h1>
 </div>
 
-<div class="row">
+<div class="row" style="height: 150px;">
   
   <div class="column"><a href="blended.html"><b>Blended learning</b>
     <p><br>
