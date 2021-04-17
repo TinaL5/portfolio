@@ -116,7 +116,7 @@ width: 100%;
   </p></a>
   </div>
 
-  <div class="column"><a href="lms.html"><b>Learning management</b>
+  <div class="column"><a href="lms.html"><b>Knowledge management</b>
     <p><br>
     <img src = "images/lms.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
