@@ -74,25 +74,25 @@ width: 100%;
 <body>
   
 <div class="header">
-  <h2>Learning Systems by Tina Leard</h2>
+  <h1>Learning Systems by Tina Leard</h1>
 </div>
 
 <div class="row">
   
-  <div class="column"><a href="hci.html"><h3>Human-computer interaction</h3>
+  <div class="column"><a href="hci.html"><b>Human-computer interaction</b>
     <p><br>
     <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
   
-   <div class="column"><a href="research.html"><h3>Research</h3>
+   <div class="column"><a href="research.html"><b>Research</b>
   <p><br>
    <img src="https://docs.google.com/drawings/d/e/2PACX-1vQwQyC0dtsPFWQuJpiWCLqVaIOfZWn3PDrzf9lUs5OPxf99E-tP4smM5_ABtj2TSdKepIIP-RZVQ9sG/pub?w=1067&amp;h=527" style="width: 98%; margin-left: auto; margin-right: auto; border-radius: 8%; display: block;">
   </p></a>
   </div>
   
-   <div class="column"><a href="design.html"><hr>Interactive design</h3>
+   <div class="column"><a href="design.html"><b>Interactive design</b>
   <p><br>
     <img src = "images/curiosity.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
