@@ -45,7 +45,7 @@ padding: 10px;
 margin: 1%;
 height: 50%;
 border-radius: 8%;
-background-color: rgba(203, 213, 232, 0.5);
+background-color: rgba(203, 213, 232, 0.3);
 font-size: 20px;
 text-align: center;
 overflow: hidden;
