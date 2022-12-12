@@ -79,20 +79,20 @@ width: 100%;
 
 <div class="row">
   
-  <div class="column"><a href="hci.html"><b>Human-computer</b>
+  <div class="column"><br><a href="hci.html"><b>Human-computer</b>
     <p><br>
     <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
   
-   <div class="column"><a href="research.html"><b>Research</b>
+   <div class="column"><br><a href="research.html"><b>Research</b>
   <p><br>
    <img src="https://docs.google.com/drawings/d/e/2PACX-1vQwQyC0dtsPFWQuJpiWCLqVaIOfZWn3PDrzf9lUs5OPxf99E-tP4smM5_ABtj2TSdKepIIP-RZVQ9sG/pub?w=1067&amp;h=527" style="width: 98%; margin-left: auto; margin-right: auto; border-radius: 8%; display: block;">
   </p></a>
   </div>
   
-   <div class="column"><a href="design.html"><b>Interactive design</b>
+   <div class="column"><br><a href="design.html"><b>Interactive design</b>
   <p><br>
     <img src = "images/curiosity.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
