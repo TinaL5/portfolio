@@ -45,7 +45,7 @@ padding: 10px;
 margin: 1%;
 height: 50%;
 border-radius: 8%;
-background-color:#cbd5e8;
+background: rgba(80, 84, 91, 0.3)
 font-size: 20px;
 text-align: center;
 overflow: hidden;
