@@ -78,47 +78,22 @@ width: 100%;
 
 <div class="row">
   
-  <div class="column"><a href="blended.html"><b>Blended learning</b>
+  <div class="column"><a href="hci.html"><b>Human-computer interaction</b>
     <p><br>
     <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
-    </p></a>
-  </div>
-  
-  <div class="column"><a href="hci.html"><b>Human-computer</b>
-    <p><br>
-    <img src = "images/automata.png" style="width: 90%; border-radius: 8%; display: block;
-      margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
   
-  <div class="column"><a href="literacy.html"><b>Design for literacy</b>
-    <p><br>
-    <img src = "images/matrix.png" style="width: 77%; border-radius: 8%; display: block;
-      margin-left: auto; margin-right: auto;">
-  </p></a>
-  </div> 
-  
-</div>
-
-<div class="row">
-  
- <div class="column"><a href="design.html"><b>Interactive design</b>
-  <p><br>
-    <img src = "images/curiosity.png" style="width: 90%; border-radius: 8%; display: block;
-      margin-left: auto; margin-right: auto;">
-  </p></a>
-  </div>
-  
- <div class="column"><a href="analytics.html"><b>Learning analytics</b>
+   <div class="column"><a href="research.html"><b>Research</b>
   <p><br>
    <img src="https://docs.google.com/drawings/d/e/2PACX-1vQwQyC0dtsPFWQuJpiWCLqVaIOfZWn3PDrzf9lUs5OPxf99E-tP4smM5_ABtj2TSdKepIIP-RZVQ9sG/pub?w=1067&amp;h=527" style="width: 98%; margin-left: auto; margin-right: auto; border-radius: 8%; display: block;">
   </p></a>
   </div>
-
-  <div class="column"><a href="lms.html"><b>Knowledge management</b>
-    <p><br>
-    <img src = "images/lms.png" style="width: 90%; border-radius: 8%; display: block;
+  
+   <div class="column"><a href="design.html"><b>Interactive design</b>
+  <p><br>
+    <img src = "images/curiosity.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
@@ -126,7 +101,7 @@ width: 100%;
 </div>
 
 <div class="footer">
-  <p style="text-align:center; color:#9299a6;">Updated April 2021</p>
+  <p style="text-align:center; color:#9299a6;">&#169; Tina Leard 2022</p>
 </div>
   
 </body>
