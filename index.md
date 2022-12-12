@@ -79,7 +79,7 @@ width: 100%;
 
 <div class="row">
   
-  <div class="column"><a href="hci.html"><b>Human-computer interaction</b>
+  <div class="column"><a href="hci.html"><b>Human-computer</b>
     <p><br>
     <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
