@@ -98,7 +98,7 @@ width: 100%;
   
    <div class="column"><a href="design.html"><b>Interactive design</b>
   <p><br>
-    <img src = "images/1train copy.png" style="width: 90%; border-radius: 8%; display: block;
+    <img src = "images/1train copy1 copy.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
