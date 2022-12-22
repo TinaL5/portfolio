@@ -91,7 +91,7 @@ width: 100%;
   
    <div class="column"><a href="research.html"><b>Research</b>
   <p><br>
-   <img src = "images/1ltbars.png" style="width: 90%; border-radius: 8%; display: block;
+   <img src = "images/1bar.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
