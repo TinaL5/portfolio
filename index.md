@@ -106,8 +106,8 @@ width: 100%;
 </div>
 
 <div class="footer">
-  <p style="text-align:center; color:#9299a6;">&#169; Tina Leard 2022</p>
-  <p style="text-align:center><a href="https://github.com/TinaL5">https://github.com/TinaL5</a></p>
+  <p style="text-align:center; color:#9299a6;">&#169; Tina Leard 2022<br>
+  <a href="https://github.com/TinaL5 target="blank">https://github.com/TinaL5</a></p>
 </div>
   
 </body>
