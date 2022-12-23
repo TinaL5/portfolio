@@ -96,7 +96,7 @@ width: 100%;
   </p></a>
   </div>
   
-   <div class="column"><a href="design.html"><b>Interactive design</b>
+   <div class="column"><a href="interactive.html"><b>Interactive design</b>
   <p><br>
     <img src = "images/interactive.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
