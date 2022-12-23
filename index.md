@@ -107,7 +107,7 @@ width: 100%;
 
 <div class="footer">
   <p style="text-align:center; color:#9299a6;">&#169; Tina Leard 2022<br>
-  <a href="https://github.com/TinaL5" target="blank">https://github.com/TinaL5</a></p>
+  <a href="https://github.com/TinaL5" target="blank">github.com/TinaL5</a></p>
 </div>
   
 </body>
