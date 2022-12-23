@@ -108,7 +108,7 @@ height: 360px;
   width: 35%;
   margin-top: 1%;
   border-radius: 8%;
-  background-color:#cbd5e8;
+  background-color: rgba(203, 213, 232, 0.25);
   font-size: 18px;
   text-align: left;
 }
