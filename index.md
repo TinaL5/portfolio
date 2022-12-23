@@ -84,21 +84,21 @@ width: 100%;
   
   <div class="column"><a href="hci.html"><b>Human-computer</b>
     <p><br>
-    <img src = "images/models.png" style="width: 90%; border-radius: 8%; display: block;
+    <img src = "images/hci.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
   
    <div class="column"><a href="research.html"><b>Research</b>
   <p><br>
-   <img src = "images/1ribbons1.png" style="width: 90%; border-radius: 8%; display: block;
+   <img src = "images/research.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
   
    <div class="column"><a href="design.html"><b>Interactive design</b>
   <p><br>
-    <img src = "images/1train copy1 copy.png" style="width: 90%; border-radius: 8%; display: block;
+    <img src = "images/interactive.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
