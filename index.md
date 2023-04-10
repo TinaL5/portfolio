@@ -78,7 +78,6 @@ width: 100%;
   </div>
   <p>Interested in bi-multilingualism and the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge sharing. 
 
-
   <br>
   
 <div class="row">
