@@ -104,7 +104,7 @@ width: 100%;
   </div>
   
   
-  <br>
+  <br><br>
 
 <div class="footer">
   <p style="text-align:right; color:#9299a6;">&#169; Tina Leard 2023<br>
