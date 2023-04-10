@@ -77,7 +77,7 @@ width: 100%;
   
 <div class="row">
   
-<p style="text-align:left; font-size: 18px; color:#9299a6;">Interested in bi-multilingual identities and the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge sharing.
+<p style="text-align:left; font-size: 18px; color:#4e5259;">Interested in bi-multilingual identities and the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge sharing.
   
   <br>
   <br>
