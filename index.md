@@ -74,20 +74,13 @@ width: 100%;
 <body>
   
 <div class="header">
-  <h1>Learning Systems by Tina Leard</h1>
+  <h1>Design by Tina Leard</h1>
+  <p>Interested in bi-multilingualism and the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge sharing. 
 </div>
 
   <br>
   
 <div class="row">
-  
-  
-  <div class="column"><a href="hci.html"><b>Human-computer</b>
-    <p><br>
-    <img src = "images/hci.png" style="width: 90%; border-radius: 8%; display: block;
-      margin-left: auto; margin-right: auto;">
-  </p></a>
-  </div>
   
    <div class="column"><a href="research.html"><b>Research</b>
   <p><br>
@@ -96,7 +89,14 @@ width: 100%;
   </p></a>
   </div>
   
-   <div class="column"><a href="interactive.html"><b>Interactive design</b>
+    <div class="column"><a href="hci.html"><b>Human-computer</b>
+  <p><br>
+    <img src = "images/hci.png" style="width: 90%; border-radius: 8%; display: block;
+      margin-left: auto; margin-right: auto;">
+  </p></a>
+  </div>
+  
+   <div class="column"><a href="interactive.html"><b>Interactive</b>
   <p><br>
     <img src = "images/interactive.png" style="width: 90%; border-radius: 8%; display: block;
       margin-left: auto; margin-right: auto;">
