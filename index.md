@@ -78,7 +78,7 @@ width: 100%;
   
 <div class="row">
   
-<p style="text-align:center; color:#9299a6;"><b>Interested in the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge sharing.</b>
+<p style="text-align:center; color:#9299a6;"><b>Interested in the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge.</b>
   
    <div class="column"><a href="research.html"><b>Research</b>
   <p><br>
@@ -108,6 +108,5 @@ width: 100%;
   <a href="https://github.com/TinaL5" target="blank">github.com/TinaL5</a></p>
 </div>
   
-  </div>
   
 </body>
