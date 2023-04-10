@@ -103,8 +103,13 @@ width: 100%;
   </p></a>
   </div>
 
+  
+  <br>
+  <br>
+  <br>
+  
 <div class="footer">
-  <br><br>
+ 
   <p style="text-align:right; color:#9299a6;">&#169; Tina Leard 2023<br>
   <a href="https://github.com/TinaL5" target="blank">github.com/TinaL5</a></p>
 </div>
