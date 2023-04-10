@@ -28,6 +28,12 @@ color: #9299a6;
 letter-spacing: 10px;
 }
 
+.body {
+text-align: center;
+font-siz: 18px;
+color: #9299a6;
+}
+
 .column {
 float: left;
 width: 31.3%;
@@ -71,7 +77,7 @@ width: 100%;
   
 <div class="row">
   
-        <p style="text-align:center; color:#9299a6;"><b>Interested in the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge sharing.</b>
+        <p style="text-align:center; color:#9299a6;"><b>Interested in the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge sharing.</p></b>
   
    <div class="column"><a href="research.html"><b>Research</b>
   <p><br>
