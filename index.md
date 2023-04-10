@@ -80,6 +80,8 @@ width: 100%;
   
 <p style="text-align:center; color:#9299a6;"><b>Interested in the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge.</b>
   
+  <br>
+  
    <div class="column"><a href="research.html"><b>Research</b>
   <p><br>
    <img src = "images/research.png" style="width: 90%; border-radius: 8%; display: block;
@@ -100,8 +102,6 @@ width: 100%;
       margin-left: auto; margin-right: auto;">
   </p></a>
   </div>
-  
-</div>
 
 <div class="footer">
   <p style="text-align:center; color:#9299a6;">&#169; Tina Leard 2023<br>
