@@ -21,16 +21,6 @@ a:visited {
   color: #2368cf;
 }
 
-a:hover {
-  text-decoration: underline;
-  color: #2368cf;
-}
-
-a:active {
-  text-decoration: underline;
-  color: #2368cf;
-}
-
 .header {
 text-align: center;
 font-size: 20px;
@@ -78,7 +68,7 @@ width: 100%;
   </div>
   
   <div class="row">
-  <p style="text-align:center; color:#9299a6;">Interested in the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge sharing. 
+  <p style="text-align:center; color:#9299a6;"><b>Interested in the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge sharing.</b>
     </div>
 
   <br>
