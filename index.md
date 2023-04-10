@@ -67,13 +67,11 @@ width: 100%;
   <h1>Design by Tina Leard</h1>
   </div>
   
-  <div class="row">
-  <p style="text-align:center; color:#9299a6;"><b>Interested in the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge sharing.</b>
-    </div>
-
   <br>
   
 <div class="row">
+  
+        <p style="text-align:center; color:#9299a6;"><b>Interested in the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge sharing.</b>
   
    <div class="column"><a href="research.html"><b>Research</b>
   <p><br>
