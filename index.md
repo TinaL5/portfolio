@@ -77,7 +77,7 @@ width: 100%;
   
 <div class="row">
   
-<p style="text-align:left; color:#9299a6;"><b>Interested in the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge.</b>
+<p style="text-align:left; color:#9299a6;"><b>Interested in bbi-multilingual identities and the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge sharing.</b>
   
   <br>
   <br>
@@ -106,11 +106,10 @@ width: 100%;
   
   <br>
   <br>
-  <br>
   
 <div class="footer">
  
   <p style="text-align:right; color:#9299a6;">&#169; Tina Leard 2023<br>
   <a href="https://github.com/TinaL5" target="blank">github.com/TinaL5</a></p>
 </div>
-   
+  </body>
