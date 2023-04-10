@@ -25,6 +25,7 @@ a:visited {
 font-size: 20px;
 color: #9299a6;
 letter-spacing: 10px;
+text-align: center;
 }
 
 .body {
@@ -77,7 +78,7 @@ width: 100%;
   
 <div class="row">
   
-<p style="text-align:center; color:#9299a6;"><b>Interested in the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge.</b>
+<p style="text-align:left; color:#9299a6;"><b>Interested in the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge.</b>
   
   <br>
   <br>
