@@ -22,7 +22,6 @@ a:visited {
 }
 
 .header {
-text-align: center;
 font-size: 20px;
 color: #9299a6;
 letter-spacing: 10px;
@@ -81,6 +80,7 @@ width: 100%;
 <p style="text-align:center; color:#9299a6;"><b>Interested in the evolution of communication within digital spaces. Experience in human-computer interaction for learning and performance. Through linguistic and psychological lenses, explore language and feedback loops within systems for knowledge.</b>
   
   <br>
+  <br>
   
    <div class="column"><a href="research.html"><b>Research</b>
   <p><br>
@@ -104,7 +104,7 @@ width: 100%;
   </div>
 
 <div class="footer">
-  <p style="text-align:center; color:#9299a6;">&#169; Tina Leard 2023<br>
+  <p style="text-align:right; color:#9299a6;"><b>&#169; Tina Leard 2023</b><br>
   <a href="https://github.com/TinaL5" target="blank">github.com/TinaL5</a></p>
 </div>
   
